@@ -1,9 +1,9 @@
 :root{
     --branco: white;
     --cor-de-fundo: #00162e;
-    --fundo-senha: #00244d;
+    --fundo-senha: #9769cc;
     --fundo-texto: #001e40;
-    --borda: #2fff00;
+    --borda: #3d008d;
     --roboto: 'Roboto Mono' monospace;
 }
 
@@ -135,7 +135,7 @@ label {
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #9293e0;
     width: 100%;
 }
 
